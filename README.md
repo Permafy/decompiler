@@ -2,7 +2,7 @@
 
 https://peramfy.github.io/packager
 
-extract the original file from a compiled permafy project
+Extract the original file from a compiled permafy project
 
 The unpackager is developed as a simple static website. There is no build step. index.html is the website and unpackager.js is the core unpackaging logic. Library dependencies are manually vendored in the dependencies folder.
 
